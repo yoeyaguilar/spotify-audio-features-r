@@ -40,4 +40,4 @@ source("make_charts.R")    # generates 3 PNG charts
 
 ## About me
 
-I'm Joe — a Data Science BS graduate (summa cum laude, University of Phoenix) starting a Master of Computer Science in Data Science at the University of Illinois Urbana-Champaign in Fall 2026. More projects at [yoeyaguilar.com](https://www.yoeyaguilar.com).
+I'm Joe — a Data Science BS graduate (summa cum laude, University of Phoenix) starting a Master of Computer Science in Data Science at the University of Illinois Urbana-Champaign in Fall 2026. More projects (and personality) at [yoeyaguilar.com](https://www.yoeyaguilar.com).
