@@ -1,0 +1,14 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Generated outputs
+*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files - too large or not yours to redistribute
+spotify_tracks.csv
